@@ -1,2 +1,2 @@
-# jdbc4
-Demonstração como atualizar dados
+# JDBC
+## Demonstração como atualizar dados
